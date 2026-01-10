@@ -1,16 +1,17 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 3 - Operators</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+<div lign="center">
+  <h1> 30 Days Of Python: Day 3 - Variables, Builtin Functions</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/bilol-orzu-b64ab0387/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://www.youtube.com/@arzykulovbilol_official">
+  <img alt="Youtube Follow" src="image.png" width="40 px" height = "20px">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
+<a href="https://www.linkedin.com/in/bilol-orzu-b64ab0387/" target="_blank">Bilol Orzu</a><br>
+<small> New Edition: January, 2026</small>
 </sub>
+
 </div>
 
 [<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
@@ -218,8 +219,8 @@ In addition to the above comparison operator Python uses:
 ```py
 print('1 is 1', 1 is 1)                   # True - because the data values are the same
 print('1 is not 2', 1 is not 2)           # True - because 1 is not 2
-print('A in Asabeneh', 'A' in 'Asabeneh') # True - A found in the string
-print('B in Asabeneh', 'B' in 'Asabeneh') # False - there is no uppercase B
+print('A in Bilol', 'A' in 'Bilol') # True - A found in the string
+print('B in Bilol', 'B' in 'Bilol') # False - there is no uppercase B
 print('coding' in 'coding for all') # True - because coding for all has the word coding
 print('a in an:', 'a' in 'an')      # True
 print('4 is 2 ** 2:', 4 is 2 ** 2)   # True
