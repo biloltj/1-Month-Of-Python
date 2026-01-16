@@ -1,5 +1,5 @@
 <div lign="center">
-  <h1> 30 Days Of Python: Day 6 - Variables, Builtin Functions</h1>
+  <h1> 30 Days Of Python: Day 6 - Tuples</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/bilol-orzu-b64ab0387/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
